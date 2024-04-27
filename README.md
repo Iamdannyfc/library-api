@@ -53,6 +53,9 @@ The API provides the following endpoints:
 - `/books/<book_id>/`: Endpoint for retrieving, updating, and deleting a specific book.
 - The complete postman documentation can be found in:
   https://documenter.getpostman.com/view/34569006/2sA3BuV8BL
+
+while the ERD can be found in:
+ -https://docs.google.com/document/d/1bWdYn7wzvOzjOG5KGo2gkmBoElqcgqlE/edit?usp=drivesdk&ouid=112042825929793018901&rtpof=true&sd=true
   
 
 ## Models
