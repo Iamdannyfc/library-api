@@ -15,24 +15,29 @@ Welcome to the Library API documentation. This API provides functionalities to m
 ## Installation
 
 To use this API, you need to have Python and Django installed on your machine. You can install Django using pip:
+
 pip install django
 
 
 Clone this repository to your local machine:
+
 git clone https://github.com/iamdannyfc/library-api.git
 
 
 Navigate to the project directory:
+
 cd library-api
 
 
 Install the dependencies:
+
 pip install -r requirements.txt
 
 
 ## Usage
 
 Once you have installed the dependencies, you can start the Django development server:
+
 python manage.py runserver
 
 
@@ -57,6 +62,7 @@ The API defines the following models:
 ## Testing
 
 To run the tests for the API, use the following command:
+
 python manage.py test
 
 
