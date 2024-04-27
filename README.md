@@ -51,6 +51,9 @@ The API provides the following endpoints:
 - `/categories/<category_id>/`: Endpoint for retrieving, updating, and deleting a specific category.
 - `/books/`: Endpoint for listing all books and creating a new book.
 - `/books/<book_id>/`: Endpoint for retrieving, updating, and deleting a specific book.
+- The complete postman documentation can be found in:
+  https://documenter.getpostman.com/view/34569006/2sA3BuV8BL
+  
 
 ## Models
 
